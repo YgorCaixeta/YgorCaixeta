@@ -2,6 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)  
 [![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-orange)](https://powerbi.microsoft.com/)  
+[![Azure](https://img.shields.io/badge/Microsoft%20Azure-Certified-blueviolet)](https://azure.microsoft.com/)  
+[![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineering-yellowgreen)](https://databricks.com/)
 
 ---
 
@@ -64,6 +66,30 @@ Abaixo, os principais projetos que estarei desenvolvendo para reforçar meu port
 ## Como Rodar Localmente
 
 1. Clone o repositório  
-   ```bash
+   
    git clone https://github.com/ygorcaixeta/portfolio-analista-dados.git
    cd portfolio-analista-dados
+   
+2. Crie e ative um ambiente virtual  
+   
+   python -m venv .venv
+   source .venv/bin/activate    # Linux / macOS
+   .venv\Scripts\activate       # Windows
+   
+3. Instale dependências  
+   
+   pip install -r requirements.txt
+   
+4. Execute notebooks ou abra no Power BI conforme a pasta de cada projeto.
+
+---
+
+## Contato
+
+- **LinkedIn:** [linkedin.com/in/ygorcaixeta](https://linkedin.com/in/ygorcaixeta)  
+- **E-mail:** ygor.caixeta@example.com  
+- **GitHub:** [github.com/ygorcaixeta](https://github.com/ygorcaixeta)  
+
+---
+
+*Este README será atualizado à medida que novos projetos forem concluídos e adicionados ao portfólio.*
